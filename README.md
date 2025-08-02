@@ -18,10 +18,17 @@ This boilerplate lets you quickly start new Vue 3 projects with:
 ## Getting Started
 
 1. Clone the repository:
-```bash
-git clone https://github.com/LeonardoCiaccio/boilerplate-tailwue-hero.git
-cd boilerplate-tailwue-hero
-```
+
+   To clone into a new folder:
+   ```bash
+   git clone https://github.com/LeonardoCiaccio/boilerplate-tailwue-hero.git
+   cd boilerplate-tailwue-hero
+   ```
+
+   To clone into the current folder:
+   ```bash
+   git clone https://github.com/LeonardoCiaccio/boilerplate-tailwue-hero.git .
+   ```
 
 2. Install dependencies:
 ```bash
